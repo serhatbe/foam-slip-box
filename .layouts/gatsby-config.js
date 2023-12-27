@@ -3,12 +3,12 @@ const pathPrefix = "/";
 // Change me
 const siteMetadata = {
   title: "Foam Template for Gatsby Theme Primer Wiki",
-  shortName: "Wiki",
+  shortName: "Slip-Box",
   description:
     "Another Foam template that use gatsby-theme-primer-wiki, Welcome to your new Foam Knowledge Base!",
   twitterName: "theowenyoung",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://demo-foam.owenyoung.com",
+  siteUrl: "serhatbe.github.io/foam-slip-box/",
 };
 module.exports = {
   siteMetadata,
@@ -34,7 +34,7 @@ module.exports = {
           },
         ],
         editUrl:
-          "https://github.com/theowenyoung/foam-template-gatsby-theme-primer-wiki/tree/main/",
+          "serhatbe.github.io/foam-slip-box//tree/main/",
       },
     },
     {
